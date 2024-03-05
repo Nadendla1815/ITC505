@@ -1,0 +1,42 @@
+@import url('https://fonts.cdnfonts.com/css/playpen-sans');
+@import url('https://fonts.cdnfonts.com/css/arima');
+@import url('https://fonts.cdnfonts.com/css/nevermind-bauhaus');
+body{
+    background-color: #3a3a45;
+}
+.mainhead{
+    background-color: #bbbbc4;
+    color: #3a3a45;
+    padding: 35px;
+    text-align: center;
+    border-radius: 15px;
+    font-family: 'Playpen Sans', sans-serif;
+    font-size: 40px;
+}
+a{
+    color: #bbbbc4;
+    border-color: #bbbbc4;
+    border-style: solid;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-bottom-width: 3px;
+    border-right-width: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-family: 'NeverMind Bauhaus', sans-serif;
+    font-size: 30px;                                                
+}
+p,ul{
+    color: #bbbbc4;
+    font-family: 'Arima', sans-serif;
+    font-size: 25px;
+}
+hr{
+    border-color: #3a3a45;
+    border-style: solid;
+}
+img{
+    height: 200px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
